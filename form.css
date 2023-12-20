@@ -1,0 +1,25 @@
+label{
+    font-size: 25px;
+}
+fieldset{
+    height: auto;
+    width: 50%;
+    margin-left: 30%;
+}
+legend{
+    border: 2px solid red;
+    border-radius: 30px;
+    font-size: 25px;
+    background-color: gold;
+    padding: 10px;
+
+}
+button{
+    margin-right: 15px;
+    padding: 10px;
+    border-radius: 20px;
+    text-align: center;
+    color: white;
+    font-weight: bolder;
+    background-image: linear-gradient(to red , green , blue);
+}
