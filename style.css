@@ -1,0 +1,35 @@
+/*img{
+  height: 200px;
+  width: aito;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+}
+td{
+  border: 1px solid green;
+  border-style:inset;
+  color: blue;
+  background-color: bisque;
+  height: 40px;
+  width: 80px;
+  text-align: center;
+  width: 50%;
+
+}
+table {
+  height: 100px;
+  width: auto;
+}
+th {
+  border: 1px solid rgb(57, 108, 57);
+  border-style:inset;
+  color: rgb(246, 248, 249);
+  background-color: rgb(188, 122, 41);
+  height: 40px;
+  width: 80px;
+  text-align: center;
+  width: 50%;
+}*/
+tr:nth-child(even){
+  background-color: aquamarine;
+}
